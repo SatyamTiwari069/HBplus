@@ -6,7 +6,7 @@ Cross-platform secure authentication app built with **React Native + Expo** (Web
 
 ## 🎥 Working Demo Video
 
-![HB+ Auth RBAC Demo](./screenshots_hbplus/Screen%20Recording%202026-02-27%20030006.mp4)
+📹 **Full Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1q-tDxBKPRvBAOIs1BR7-kGhRrPv53tmx/view?usp=sharing)
 
 ---
 
