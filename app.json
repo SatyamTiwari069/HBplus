@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "HB+ Auth",
+    "slug": "hbplus-auth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0a0a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hbplus.auth",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "CFBundleURLTypes": [
+          {
+            "CFBundleURLSchemes": [
+              "com.googleusercontent.apps.346226144445-ios-7cbcd3925940ea257eb3d4"
+            ]
+          }
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0a0a"
+      },
+      "package": "com.hbplus.auth",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "HB+ Auth",
+      "themeColor": "#0a0a0a",
+      "backgroundColor": "#0a0a0a"
+    },
+    "scheme": "hbplus-auth",
+    "plugins": [
+  "expo-router"
+],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
