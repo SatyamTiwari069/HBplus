@@ -4,7 +4,15 @@ Cross-platform secure authentication app built with **React Native + Expo** (Web
 
 ---
 
-## 🎥 Working Demo Video
+## � Live Demo
+
+🚀 **Try it now:** [https://69a0d445ca28bd540d8eb7c3--dreamy-stroopwafel-f3490b.netlify.app/](https://69a0d445ca28bd540d8eb7c3--dreamy-stroopwafel-f3490b.netlify.app/)
+
+> **Test Credentials:** Use any email ending with `@hbplus.fit` to access the application.
+
+---
+
+## �🎥 Working Demo Video
 
 📹 **Full Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1q-tDxBKPRvBAOIs1BR7-kGhRrPv53tmx/view?usp=sharing)
 
