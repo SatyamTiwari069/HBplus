@@ -27,7 +27,7 @@ Cross-platform secure authentication app built with **React Native + Expo** (Web
 7. **Admin Dashboard** - ![Admin](./screenshots_hbplus/screenshot_7.png)
 6. **Security Settings** - ![Security](./screenshots_hbplus/screenshot_6.png)
 5. **User Profile** - ![Profile](./screenshots_hbplus/screenshot_5.png)
-4. **User Dashboard** - ![User](./screenshots_hbplus/screenshot_4.png)
+4. **Firebase Email Storage** - ![Firebase](./screenshots_hbplus/Screenshot%202026-02-27%20052918.png)
 3. **Domain Validation** - ![Domain](./screenshots_hbplus/screenshot_3.png)
 2. **Google Sign-In** - ![Sign-In](./screenshots_hbplus/screenshot_2.png)
 1. **Login Screen** - ![Login](./screenshots_hbplus/screenshot_1.png)
